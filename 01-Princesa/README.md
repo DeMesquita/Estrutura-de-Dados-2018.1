@@ -7,5 +7,5 @@
    Contei com a ajuda de amigos(Guilherme e Júnior) ,que também fazem Estrutura de Dados comigo, para resolver os erros que apareceram durante a implementação e testes. As explicações na aula de correção do código em C++ também ajudaram a esclarecer dúvidas remanescentes das aulas passadas sobre como fazer determinada função da atividade. Aprendi a udar de perspectiva e pensar em soluções mais triviais.
    
    
-Levei cerca de duas semanas tentando essa de C.
+Levei cerca de duas semanas fazendo essas de C.
 
