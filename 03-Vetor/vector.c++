@@ -51,13 +51,30 @@ struct Vetor{
         }
     void reserve(int capacity){
         int i, j = 0;
-        Vetor original_data[capacity];
-            while(i < capacity ){
+        Vetor original_data[this->size()];
+        
+            while(i < this->size()){
                 original_data.push_back(this->_data[i]);// salva o bloco antigo em algum lugar
                 i++;
             }
+        
             this->_data = new int[capacity];//pede uma novo bloco de dados
-            this->_size = 0;
+            this->_size = 0
+                
+            if(capacity <= this->capacity()){//restrição
+               this->_capacity = new int[capacity];//atualiza
+               this->_data = new int[capacity];//pede uma novo bloco de dados
+               this->_size = 0
+              
+
+                for (int i = 0; i < capacity; i++) {
+                    this->push_back(original_data.at(i));
+            }else{
+                for (int i = 0; i < this.size(); i++) {
+                    this->push_back(original_data.at(i));
+            }
+
+        }
 
      }
 
@@ -66,26 +83,6 @@ struct Vetor{
 
 
 
-int main(){
 
-    Vetor pivet(5);
-    pivet.push_back(4);//add ao vetor
-    pivet.push_back(2);
-    pivet.push_back(7);
-
-    pivet.at(2);
-    pivet.at(2) = 9;
-
-    int x = 3;
-    int y = 2;
-    x = y;
-
-    //lvalue & significa referencia
-    int& a = x;//referencia a um inteiro
-
-
-  return 0;
-
-}
 
 
