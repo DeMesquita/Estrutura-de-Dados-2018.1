@@ -4,7 +4,7 @@
 
 int main(){
 
-    int vjogadores[100]; 
+    int vjogadores[1000]; 
 
     int i = 0;
     int qtd = 0;
