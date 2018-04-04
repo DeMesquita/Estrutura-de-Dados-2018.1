@@ -5,4 +5,4 @@
    Como na atividade anterior contei com a ajuda do Júnior, Guilherme, Sávila e Eduarda. Dessa vez também pude ajudá-los em suas dificuldades. A alteração de incluir os níveis me ajudou a “enxergar” a recursão.  
 	
 
-Levei cerca de uma semana tentando.
+Levei cerca de uma semana.
