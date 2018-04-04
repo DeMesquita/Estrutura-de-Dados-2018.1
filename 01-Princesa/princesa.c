@@ -38,7 +38,7 @@ int main(){
 		// procurando o da espada
         espada = (decapitado+1)%qtd; 
         
-		while(  vjogadores[espada] == -1 ){ 
+	while(  vjogadores[espada] == -1 ){ 
             espada = (espada+1)%qtd; 
         }  
 
