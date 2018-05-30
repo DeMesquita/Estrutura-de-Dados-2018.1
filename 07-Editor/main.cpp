@@ -60,6 +60,11 @@ int main()
                 else if(event.key.code == sf::Keyboard::R){
                     if(event.key.control)
                         cout << "control r" << endl;
+                    
+                } else if(event.key.code == sf::Keyboard::W){
+                    cout << "control w" << endl;
+                    janela.close();
+
                 }
                 else if((event.key.code >= sf::Keyboard::A) &&
                    (event.key.code <= sf::Keyboard::Z)){
