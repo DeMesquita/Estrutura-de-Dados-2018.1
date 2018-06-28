@@ -1,4 +1,4 @@
-##12-Árvore
+# 12-Árvore
 
 Achei mais fácil, provavelmente por ter vido hash antes. Só ter que verificar
 posições a direita e esquerda que é um pouco chato, mas é bem melhor do que ficar
