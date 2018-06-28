@@ -1,6 +1,6 @@
-#08- Ordenação
+# 08- Ordenação
 
-## Atividade feita em conjunto com Sávila, Júnior e Eduarda antes do prof corrigir de fato os algoritmos
+    Atividade feita com ajuda da Sávila, Júnior e Eduarda antes do prof corrigir de fato os algoritmos
 
     Ótima atividade. Havia visto apenas o bublle sorte em FUP, implementar ele dessa forma foi bem mais interessante.
     Conseguir fazer o PalmaSOrt sorte funcionar foi uma das coisas mais difíceis, sempre dava um erro.
