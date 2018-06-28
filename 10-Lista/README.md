@@ -1,4 +1,4 @@
-#10-Lista
+# 10-Lista
 
 Essa atividade de lista foi muito bacana, pra ser sincera foi a primeira que acertei em cheio, quase tudo.
 Fiz em sala mesmo em parceria com a Sávila e foi uma injeção de ânimo muito grande ter esse sucesso,
