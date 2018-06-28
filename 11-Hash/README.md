@@ -1,4 +1,4 @@
-#11-Hash
+# 11-Hash
 
 Essa atividade foi mais complicada, estava meio bloqueada e não conseguia pensar nem nos pseudos.
 Conforme fomos fazendo os pseudos códigos em sala comecei a pensar em como implementar.
